@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/donorbox-donate-blue.svg)](https://donorbox.org/scala-for-visual-studio-support?recurring=true) 
+
 # vscode-scala
 Scala &amp; SBT colorizer for the Visual Studio Code
 
@@ -11,7 +13,7 @@ Mac $HOME/.vscode/extensions
 Linux $HOME/.vscode/extensions
 ```
 
-Copy snippets folder to 
+Copy the contents of the snippets folder to 
 ```bash
 Mac $HOME/Library/Application Support/Code/User/snippets
 ```
